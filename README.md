@@ -18,13 +18,21 @@
 
 ## 📢 Update (04/06/2026)
 
-PushTerm V2 UI design is now **complete**!
+PushTerm V2 is progressing—**the UI design is now complete**, and the **File Tab is functional**!
+
+### ⚡ New Direction
+- Web-connected printer control (no SD card)  
+- Cleaner, easier-to-use UI  
+- More reliable automation  
+- Fully rewritten backend  
+*(Yes… partly because my SD card slot is broken 😅)*
 
 ### ⚡ What’s New
 - Full **UI design finalized**: dark, futuristic, space-style theme  
-- Main layout set for terminal, queue, and controls  
-- Placeholder areas for drag-and-drop, buttons, and animations  
-- **Note:** UI is currently **design-only**; no interactive functionality yet  
+- **File Tab working**: generate and modify G-code directly in the app, like the terminal  
+- Main layout finalized for terminal, queue, and placeholders for drag-and-drop and animations  
+- **Note:** UI is functional for File Tab only; other interactive features still in development  
+- Can do everything the Terminal Version can now  
 
 ### 💸 Cost
 **100% FREE — forever**  
@@ -32,12 +40,10 @@ PushTerm V2 UI design is now **complete**!
 - No locked tools  
 
 ### ⏳ Status
-UI ready for feedback — functionality still in development  
-- Terminal features, queue system, file upload/download, and Bambu Lab slicer integration coming next  
+File Tab working — full printer integration coming next  
 
 ### ❤️ Support
 Donations will be added soon if you want to support the project 🙌
-
 ---
 
 ## 🚀 Features
