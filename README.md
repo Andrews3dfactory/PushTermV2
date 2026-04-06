@@ -16,26 +16,24 @@
 
 ---
 
-## 📢 Update (03/19/2026)
+## 📢 Update (04/06/2026)
 
-PushTermV2 is being **fully rebuilt from scratch**.
+PushTerm V2 UI design is now **complete**!
 
-### ⚡ New Direction
-- Web-connected printer control (no SD card)
-- Cleaner, easier-to-use UI
-- More reliable automation
-- Fully rewritten backend
-- Launch the **new & improved OG Terminal** too
-
-*(Yes… partly because my SD card slot is broken 😅)*
+### ⚡ What’s New
+- Full **UI design finalized**: dark, futuristic, space-style theme  
+- Main layout set for terminal, queue, and controls  
+- Placeholder areas for drag-and-drop, buttons, and animations  
+- **Note:** UI is currently **design-only**; no interactive functionality yet  
 
 ### 💸 Cost
-**100% FREE — forever**
-- No paid features
-- No locked tools
+**100% FREE — forever**  
+- No paid features  
+- No locked tools  
 
 ### ⏳ Status
-In development — updates coming soon
+UI ready for feedback — functionality still in development  
+- Terminal features, queue system, file upload/download, and Bambu Lab slicer integration coming next  
 
 ### ❤️ Support
 Donations will be added soon if you want to support the project 🙌
